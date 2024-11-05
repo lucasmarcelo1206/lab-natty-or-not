@@ -1,5 +1,5 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Inteligência Artificial: Transformando Nossas Rotinas
 
 ## 📒 Descrição
 Neste vídeo curto, usei IA's para explicar como a inteligência artifical está moldando nosso dia a dia.
